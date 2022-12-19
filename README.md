@@ -1,2 +1,2 @@
 # C
-C language programs
+C language programs. Includes implementation of OS scheduling algorithms.
