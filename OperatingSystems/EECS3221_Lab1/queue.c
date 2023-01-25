@@ -2,7 +2,6 @@
  *  queue.c
  *
  *  Full Name: Shalom Asbell
- *  Course ID: EECS3221 M
  *  Description of the program: this program implements a queue of Process *'s.
  *  
  */
