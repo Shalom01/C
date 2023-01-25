@@ -2,7 +2,6 @@
  *  queue.h
  *
  *  Full Name: Shalom Asbell
- *  Course ID: EECS3221 M
  *  Description of the program: A header file that contains explicit declarations for all the functions implemented in "queue.c".
  *  
  */
