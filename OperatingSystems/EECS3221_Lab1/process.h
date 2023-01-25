@@ -2,7 +2,6 @@
  *  process.h
  *
  *  Full Name: Shalom Asbell
- *  Course ID: EECS3221 M
  *  Description of the program: Representation of a process in the system.
  *  
  */
