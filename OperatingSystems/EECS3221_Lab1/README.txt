@@ -1,6 +1,5 @@
  *******************************************************************************************************
  * Full Name: Shalom Asbell                                                                            *
- * Course ID: EECS 3221 M                                                                              *
  * Description: a readable file describing each included file and its dependencies                     *
  * and instructions of how to run the project.                                                         *
  *******************************************************************************************************
