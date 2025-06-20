@@ -9,7 +9,7 @@
 ## FILE DESCRIPTIONS
 
 1. *Name*: **scheduler.c**  
-   *Description*: the main C file of the program. Contains the scheduling simulation algorithms for FCFS,  
+   *Description*: the main C file of the program. Contains scheduling simulation algorithms for FCFS,  
    RR, and SJF.  
    *Dependencies*: **scheduler.h**, **queue.c**, **queue.h**, **process.h**, <stdio.h>, <stdlib.h>, <string.h>, <math.h>  
 
