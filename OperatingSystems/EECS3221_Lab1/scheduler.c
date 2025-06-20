@@ -1,7 +1,7 @@
 /**
  *  scheduler.c
  *
- *  Full Name: Shalom Asbell
+ *  Author: Shalom Asbell
  *  Description of the program: scheduler takes an input file with processes and their information (in command argument 1) 
  *  and a digit (in command argument 2) that corresponds to the wanted scheduling algorithm (1=FCFS, 2=RR, 3=SJF). It then
  *  simulates the scheduling algorithm and outputs a timing snapshot of every cycle in the schedule 
