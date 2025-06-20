@@ -1,8 +1,8 @@
 
  *******************************************************************************************************
- * Author: Shalom Asbell                                                                            *
- * Description: a readable file describing each included file and its dependencies                     *
- * and instructions of how to run the project.                                                         *
+ * Author: Shalom Asbell                                                                            
+ * Description: a readable file describing each included file and its dependencies                     
+ * and instructions of how to run the project.                                                         
  *******************************************************************************************************
 
 ****FILE DESCRIPTION************************************************************************************
