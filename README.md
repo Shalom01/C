@@ -1,2 +1,2 @@
 # OS Scheduling Simulation
-Simulation algorithms for OS process scheduling (FCFS, RR, and SJF).                                        
+C-language simulation of process scheduling algorithms (FCFS, RR, and SJF).                                        
