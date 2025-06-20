@@ -19,27 +19,36 @@
    
    Dependencies: None
     
-4. -Name: queue.c
+4. Name: queue.c
     Description: a C file that implements a queue data structure of Process pointers.
+   
     Dependencies: queue.h, process.h, <stdlib.h>, <stdio.h>, <string.h>
 
-5. Name: queue.h
-    Description: a header file that contains the constants and explicit function declerations of the
-    queue.c file.
-    Dependencies: None
+6. Name: queue.h
+  
+   Description: a header file that contains the constants and explicit function declerations of the
+   queue.c file.
 
-6. Name: process.h
-    Description: a header file that defines a process in our system.
-    Dependencies: None
+   Dependencies: None
 
-(6) Name: Makefile
-    Description: a makefile that allows for easy compilation and running of the project
-    Dependencies: None
+9. Name: process.h
 
-(7) Name: README.txt
-    Description: a readable file that contains project file descriptions and instructions for how to run
-    the project.
-    Dependencies: None
+   Description: a header file that defines a process in our system.
+
+   Dependencies: None
+
+6. Name: Makefile
+
+   Description: a makefile that allows for easy compilation and running of the project
+
+   Dependencies: None
+
+8. Name: README.txt
+
+   Description: a readable file that contains project file descriptions and instructions for how to run
+   the project.
+
+   Dependencies: None
 
 ## HOW TO RUN
 
