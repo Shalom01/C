@@ -2,8 +2,7 @@
 
 *******************************************************************************************************
 *Author*: **Shalom Asbell**                                                                            
-*Description*: this file describes each included file and its dependencies,                     
-  and gives instructions of how to run the project.                                                    
+*Description*: this file describes each included file and its dependencies, and gives instructions of how to run the project.                                                    
 *******************************************************************************************************
 
 ## FILE DESCRIPTIONS
