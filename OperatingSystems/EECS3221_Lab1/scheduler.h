@@ -1,7 +1,7 @@
 /**
  *  scheduler.h
  *
- *  Full Name: Shalom Asbell
+ *  Author: Shalom Asbell
  *  Description of the program: A header file to contain the QUANTUM constant for the RR algorithm implemented in "scheduler.c".
  * It also contains explicit declarations for all the functions implemented in "scheduler.c".
  *  
