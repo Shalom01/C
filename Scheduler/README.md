@@ -1,3 +1,4 @@
+# OS SCHEDULING SIMULATOR
 
  *******************************************************************************************************
  * Author: Shalom Asbell                                                                            
@@ -5,7 +6,7 @@
  * and instructions of how to run the project.                                                         
  *******************************************************************************************************
 
-****FILE DESCRIPTION************************************************************************************
+**FILE DESCRIPTION**
                                                                                                             
 (1) Name: scheduler.c                                                                                       
     Description: the main C file of the program. Contains the scheduling simulation algorithms for FCFS,
