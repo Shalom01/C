@@ -1,7 +1,7 @@
 /**
  *  queue.h
  *
- *  Full Name: Shalom Asbell
+ *  Author: Shalom Asbell
  *  Description of the program: A header file that contains explicit declarations for all the functions implemented in "queue.c".
  *  
  */
