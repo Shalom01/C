@@ -2,7 +2,7 @@
 
 *******************************************************************************************************
 *Author*: **Shalom Asbell**                                                                            
-*Description*: this file describes each included file and its dependencies, and gives instructions of how to run the project.                                                    
+*Description*: This document describes each file in the project, lists their dependencies, and provides instructions on how to run the program.
 *******************************************************************************************************
 
 ## FILE DESCRIPTIONS
