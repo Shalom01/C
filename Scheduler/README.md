@@ -9,9 +9,9 @@
 ## FILE DESCRIPTIONS
                                                                                                             
 1. Name: scheduler.c                                                                                       
-    Description: the main C file of the program. Contains the scheduling simulation algorithms for FCFS,
-    RR, and SJF.                                                                               
-    Dependencies: scheduler.h, queue.c, queue.h, process.h, <stdio.h>, <stdlib.h>, <string.h>, <math.h> 
+   Description: the main C file of the program. Contains the scheduling simulation algorithms for FCFS,
+   RR, and SJF.                                                                               
+   Dependencies: scheduler.h, queue.c, queue.h, process.h, <stdio.h>, <stdlib.h>, <string.h>, <math.h> 
 
 2. Name: scheduler.h
    Description: a header file that containts the constants and explicit function declerations of the scheduler.c file.
