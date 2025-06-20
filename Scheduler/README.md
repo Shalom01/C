@@ -6,7 +6,7 @@
  * and instructions of how to run the project.                                                         
  *******************************************************************************************************
 
-**FILE DESCRIPTION**
+**FILE DESCRIPTIONS**
                                                                                                             
 (1) Name: scheduler.c                                                                                       
     Description: the main C file of the program. Contains the scheduling simulation algorithms for FCFS,
