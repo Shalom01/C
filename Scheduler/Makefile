@@ -1,5 +1,4 @@
-# Full Name: Shalom Asbell
-# Course ID: EECS3221 M
+# Author: Shalom Asbell
 # Description: makefile for scheduling program        
 CC=gcc
 DEPS = scheduler.h process.h queue.h
