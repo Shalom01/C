@@ -1,7 +1,7 @@
 /**
  *  queue.c
  *
- *  Full Name: Shalom Asbell
+ *  Author: Shalom Asbell
  *  Description of the program: this program implements a queue of Process *'s.
  *  
  */
