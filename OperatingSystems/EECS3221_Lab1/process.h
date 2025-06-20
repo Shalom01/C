@@ -1,7 +1,7 @@
 /**
  *  process.h
  *
- *  Full Name: Shalom Asbell
+ *  Author: Shalom Asbell
  *  Description of the program: Representation of a process in the system.
  *  
  */
