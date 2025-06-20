@@ -1,2 +1,2 @@
-# C
-C language programs. Includes implementation of OS scheduling algorithms.
+# OS SCHEDULER SIMULATION
+Simulation algorithms for OS process scheduling (FCFS, RR, and SJF).                                        
